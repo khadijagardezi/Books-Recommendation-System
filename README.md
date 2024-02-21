@@ -1,7 +1,7 @@
 # Download book dataset
 Go to: https://mengtingwan.github.io/data/goodreads.html
 
-# Books Recommendation Systems
+# Books Recommendation System
 This project aims to simplify this search by developing sophisticated recommendation systems tailored to your preferences and reading habits. Utilizing state-of-the-art algorithms, we delve into various recommendation strategies:
 
 Collaborative Filtering: Leveraging user interactions to suggest books you'll love based on what similar users enjoyed.
