@@ -4,14 +4,13 @@ Go to: https://mengtingwan.github.io/data/goodreads.html
 # Books Recommendation System
 This project aims to simplify this search by developing sophisticated recommendation systems tailored to your preferences and reading habits. Utilizing state-of-the-art algorithms, we delve into various recommendation strategies:
 
-Collaborative Filtering: Leveraging user interactions to suggest books you'll love based on what similar users enjoyed.
-Popularity-Based Recommendations: Highlighting trending and widely acclaimed books to ensure you're not missing out on the titles everyone's talking about.
-Content-Based Filtering: Focusing on the characteristics of books you've enjoyed in the past to recommend others that match in genre, writing style, or theme.
-This project is not just about recommending books; it's an exploration of how technology can enhance our reading experiences, making personalization the cornerstone of discovering literature.
+**Popularity-Based:** Highlighting trending and widely acclaimed books to ensure you're not missing out on the titles everyone's talking about.
 
+**Collaborative Filtering:** Leveraging user interactions to suggest books you'll love based on what similar users enjoyed.
+
+**Content-Based Filtering:** Focusing on the characteristics of books you've enjoyed in the past to recommend others that match in genre, writing style, or theme.
 
 ##  Search for the book
-
 
 <img width="878" alt="Screenshot 2024-02-21 at 3 11 01 PM" src="https://github.com/khadijagardezi/Books-Recommendation-System/assets/41299669/609a4b76-c62e-46ff-a538-31bd3a7991f3">
 
